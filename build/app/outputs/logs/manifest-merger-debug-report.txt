@@ -46,7 +46,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ha
 	android:label
 		ADDED from C:\Users\harki\Desktop\Recipe Book\android\app\src\main\AndroidManifest.xml:10:9-36
 	android:icon
-		ADDED from C:\Users\harki\Desktop\Recipe Book\android\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\harki\Desktop\Recipe Book\android\app\src\main\AndroidManifest.xml:11:9-43
 	android:name
 		ADDED from C:\Users\harki\Desktop\Recipe Book\android\app\src\main\AndroidManifest.xml:9:9-57
 activity#com.example.mealsApp.MainActivity
