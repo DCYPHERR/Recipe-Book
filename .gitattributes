@@ -1,0 +1,3 @@
+*.java linguist-detectable=false
+*.d linguist-detectable=false
+*.makefile linguist-detectable=false
